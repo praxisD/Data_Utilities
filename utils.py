@@ -1,5 +1,5 @@
 """
-utils.py — common data-prep and modelling helpers
+utils.py — common data preparation and modelling helpers
 
 Status: under active development.
 TODO:
